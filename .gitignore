@@ -1,0 +1,17 @@
+*~
+*.pyc
+.DS_store
+checkpoints/
+xCheckpoints/
+*.out
+*.tmp
+*.swp
+.ipynb_checkpoints/
+output/
+__pycache__
+.empty
+__MACOSX/
+tmp/
+.vscode/
+*.ipynb
+data
